@@ -1,0 +1,16 @@
+flask
+gunicorn
+tensorflow-cpu
+onnxruntime
+numpy
+opencv-python
+requests
+pymongo
+flask-bcrypt
+scipy
+Pillow
+Werkzeug
+Flask-JWT-Extended
+Flask-CORS
+huggingface_hub
+google-generativeai
